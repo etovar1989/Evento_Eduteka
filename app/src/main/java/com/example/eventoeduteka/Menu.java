@@ -19,6 +19,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.eventoeduteka.dia1.dia1;
+import com.example.eventoeduteka.dia2.dia2;
 
 public class Menu extends AppCompatActivity {
 

@@ -12,11 +12,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".dia2SubMenu"></activity>
-        <activity android:name=".dia2Simultanea" />
-        <activity android:name=".dia2Resultado" />
-        <activity android:name=".dia2QR" />
-        <activity android:name=".dia2" />
+        <activity android:name=".dia2.dia2SubMenu"></activity>
+        <activity android:name=".dia2.dia2Simultanea" />
+        <activity android:name=".dia2.dia2Resultado" />
+        <activity android:name=".dia2.dia2QR" />
+        <activity android:name=".dia2.dia2" />
         <activity android:name=".dia1.dia1SubMenu" />
         <activity android:name=".dia1.dia1Resultado" />
         <activity android:name=".dia1.dia1QR" />

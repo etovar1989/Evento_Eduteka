@@ -1,4 +1,4 @@
-package com.example.eventoeduteka;
+package com.example.eventoeduteka.dia2;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,9 +11,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.eventoeduteka.dia1.dia1QR;
-import com.example.eventoeduteka.dia1.dia1Resultado;
-import com.example.eventoeduteka.dia1.dia1SubMenu;
+import com.example.eventoeduteka.R;
 
 public class dia2SubMenu extends AppCompatActivity {
 
