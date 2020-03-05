@@ -1,0 +1,46 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dialog_rl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/dialog_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/quicksand_medium"
+        android:padding="5dp"
+        android:text="Diguite el docuemnto del participante."
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/txtResultado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/dialog_title"
+        android:background="@drawable/redondeo"
+        android:hint="Documento"
+        android:inputType="number"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnEnviar"
+        android:layout_width="125dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/txtResultado"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="149dp"
+        android:layout_marginTop="23dp"
+        android:layout_marginRight="149dp"
+        android:background="@drawable/animacion_consultar"
+        android:fontFamily="@font/quicksand_medium"
+        android:text="OK"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
+
+
+</RelativeLayout>
