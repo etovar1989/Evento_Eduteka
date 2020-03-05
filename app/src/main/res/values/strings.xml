@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Evento Eduteka</string>
+    <string name="creador">By Eduteka ETM</string>
+    <string name="dia1">Día 1</string>
+    <string name="dia2">Día 2</string>
+    <string name="dia3">Día 3</string>
+    <string name="consultar">CONSULTAR</string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="usuario">Usuario</string>
+    <string name="clave">Clave</string>
+    <string name="bloque">Seleccione el bloque de comferencias</string>
+    <string name="continuar">Continuar</string>
+    <string name="dia2S">Día 2 - Simultanea</string>
 </resources>
