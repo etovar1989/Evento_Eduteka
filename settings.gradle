@@ -1,0 +1,2 @@
+rootProject.name='Evento Eduteka'
+include ':app'
